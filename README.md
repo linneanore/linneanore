@@ -1,7 +1,5 @@
-![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Linnea Nore</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
-<img align=”right” alt=”coding” width=”400” src=”https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif”>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
